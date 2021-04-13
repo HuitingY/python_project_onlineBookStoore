@@ -1,7 +1,5 @@
 # python_project_onlineBookStoore
 
-# python_project_onlineBookStoore
-
 *需安裝套件:使用前請安裝tabulate, datetime以及copy套件。
 *需有'inventory.txt'檔案，內容如下:
 Thinking python;520;300;10;2015/12/31
