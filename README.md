@@ -1,6 +1,6 @@
 # python_project_onlineBookStoore
 
-*使用前請安裝tabulate, datetime以及copy套件。
+*使用前請安裝tabulate, datetime以及copy套件。  
 *需夾帶'inventory.txt'檔案，內容如下:
 Thinking python;520;300;10;2015/12/31
 Introduction to Algorithms;4950;2000;20;2009/09/01
