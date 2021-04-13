@@ -1,0 +1,3 @@
+Thinking python;520;300;6;2015/12/31;2
+Introduction to Algorithms;4950;2000;18;2009/09/01;1
+Introduction to Management Science;1420;800;13;2019/04/01;1

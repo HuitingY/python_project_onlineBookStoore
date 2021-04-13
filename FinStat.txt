@@ -1,0 +1,5 @@
+** Profit of Online Book store: $4010 **
+Thinking python;520;300;2021/01/14
+Introduction to Algorithms;4950;2000;2021/01/14
+Thinking python;520;300;2021/01/14
+Introduction to Management Science;1420;800;2021/01/14
