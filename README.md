@@ -1,14 +1,14 @@
 # python_project_onlineBookStoore
 
-*需安裝套件:使用前請安裝tabulate, datetime以及copy套件。
-*需有'inventory.txt'檔案，內容如下:
+*使用前請安裝tabulate, datetime以及copy套件。
+*需夾帶'inventory.txt'檔案，內容如下:
 Thinking python;520;300;10;2015/12/31
 Introduction to Algorithms;4950;2000;20;2009/09/01
 Introduction to Management Science;1420;800;15;2019/04/01
 
 
 ## 功能介紹
-### 初始畫面:此為線上書城購書系統，初始畫面會顯示三個表格，分別為(1).best seller-最佳銷售前三本列表、(2).order by publication date-按照出版日期排序之書籍列表以及(3).book number-書本號碼列表。
+ 1.初始畫面:此為線上書城購書系統，初始畫面會顯示三個表格，分別為(1).best seller-最佳銷售前三本列表、(2).order by publication date-按照出版日期排序之書籍列表以及(3).book number-書本號碼列表。
 (註1:使用者若是第一次使用購書系統，Best seller因為沒有相關銷售紀錄會顯示" Buy your first book to show the best seller!! ")
 (註2:若銷售數量相同時則會優先顯示書號在前的書本)
 
