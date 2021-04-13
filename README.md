@@ -73,9 +73,9 @@ Introduction to Management Science;1420;800;15;2019/04/01
       請輸入出版日期: 2001/10/26
       修改成功! 按任一鍵返回! 
       -----------------------------
-      ```
+   ```
       
-      ```
+   ```
       Welcome to online book store!
 
       * * Best Seller (TOP3) * *
@@ -103,7 +103,7 @@ Introduction to Management Science;1420;800;15;2019/04/01
       3. Introduction to Management Science ($1420)
       4. Harry potter ($9000)                                         <------ Harry potter新增成功
       ----------------------------------------------------------------------------
-    ```
+  ```
 
    5. Go back to the initial screen  
    即回到主畫面。
